@@ -1,3 +1,6 @@
+[submodule "restavracije"]
+	path = restavracije
+	url = https://github.com/hotpotato242/restavracije
 [submodule "poti"]
 	path = poti
 	url = https://github.com/BonRadar/poti
